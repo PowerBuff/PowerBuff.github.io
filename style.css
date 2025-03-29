@@ -121,9 +121,15 @@ a {
 }
 
 .ad-two {
-  background-color: #ffffff0d;
-  padding: 15px;
-  border-radius: 10px;
+  height: 200px; /* fixed height */
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  text-align: center;
 }
 
 .c-three {
