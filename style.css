@@ -307,7 +307,6 @@ a {
 }
 .icon-wrapper {
   font-size: 3rem; /* Adjust as needed */
-  display: flex;
   justify-content: center;
   align-items: center;
   height: 80px; /* Makes them consistent height */
